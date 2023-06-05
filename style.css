@@ -1,8 +1,11 @@
+body{
+    background-color: #f8f8ff;
+}
 .main{
     width: 250px;
     padding: 10px;
     margin: 10px;
-    background-color:  #f8f8ff;
+    background-color:  #ffffff;
     border-radius: 10px;
     box-sizing: border-box;
 }
@@ -17,7 +20,7 @@
     color:#808080;
     font-size: 14px;
     padding-bottom: 25px;
-    
+    line-height: 25px;    
     
 }
 .price{
@@ -34,9 +37,8 @@
     border-radius: 5px;
     padding: 5px;
     text-decoration: none;
-    color:red;
     text-align: center;
-    background-color: #b1e2fa;
+    background-color: #dde6fe;
     
 }
 .compare{
